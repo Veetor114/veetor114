@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://github.com/ethan-howes">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Ethan" alt="Hello! I&#39;m Ethan" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Victor" alt="Hello! I&#39;m Victor" />
   </a>
 </p>
 
 ### About Me
 
-- &nbsp;I'm currently working on **infrastructure solutions for distributed systems and AI/ML deployment**  
+- &nbsp;I create beautiful, functional digital experiences that solve real problems. From user research to pixel-perfect interfaces and seamless code implementation.**  
 - &nbsp;Fun fact: **I found my proxmox server hardware on Facebook Marketplace while on vacation**
 
 ### Tech Stack
