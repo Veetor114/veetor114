@@ -11,8 +11,8 @@
 ### 🚀 About Me
 
 I build scalable, production-ready web applications from frontend to backend. With hands-on experience in authentication systems, real-time databases, cloud deployment, and modern web frameworks, I deliver complete digital solutions that work in the real world.  
-I'm passionate about creating responsive, user-focused applications and solving real-world problems with clean, maintainable code. Whether architecting a multi-role school portal or shipping a polished business platform, I bring the same commitment to quality and performance to every project.  
-When I'm not building, you'll find me exploring new technologies, contributing to open source projects, or mentoring junior developers.
+I'm passionate about creating responsive, user-focused applications and solving real-world problems with clean, maintainable code.  
+When I am not building, you will find me exploring new technologies, contributing to open source projects, or mentoring junior developers.
 
 🔭 &nbsp;I'm currently working on **A German Language App, tailored for B2 level German learners**
 
