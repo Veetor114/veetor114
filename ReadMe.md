@@ -14,7 +14,7 @@ I build scalable, production-ready web applications from frontend to backend. Wi
 I'm passionate about creating responsive, user-focused applications and solving real-world problems with clean, maintainable code.  
 When I am not building, you will find me exploring new technologies, contributing to open source projects, or mentoring junior developers.
 
-🔭 &nbsp;I'm currently working on **A German Language App, tailored for B2 level German learners**
+🔭 &nbsp;I'm currently working on **A German Coaching App, tailored for B2 level German learners**
 
 ### 🛠️ Tech Stack
 
