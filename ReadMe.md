@@ -14,10 +14,7 @@ I build scalable, production-ready web applications from frontend to backend. Wi
 I'm passionate about creating responsive, user-focused applications and solving real-world problems with clean, maintainable code. Whether architecting a multi-role school portal or shipping a polished business platform, I bring the same commitment to quality and performance to every project.  
 When I'm not building, you'll find me exploring new technologies, contributing to open source projects, or mentoring junior developers.
 
-🔭 &nbsp;I'm currently working on **A German Language App, tailored for B2 level German learners**  
-🌱 &nbsp;I'm currently learning **SQL**  
-💬 &nbsp;Ask me about **API designs**  
-⚡ &nbsp;Fun fact: **I once debugged a School portal website.**
+🔭 &nbsp;I'm currently working on **A German Language App, tailored for B2 level German learners**
 
 ### 🛠️ Tech Stack
 
@@ -43,7 +40,7 @@ When I'm not building, you'll find me exploring new technologies, contributing t
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/victor-ikpebagha"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://x.com/veetor09"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://x.com/veetor9"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://instagram.com/Vee.tor"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://portfolio-website-victor-70.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:ikpebaghaveetor@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
